@@ -1,9 +1,8 @@
 import socket
 import sys
 
-import config
-import functions
-
+import config                                                       # configurations file
+import functions                                                    # main functions (addPair, retrieve...)
 host = config.host
 if len(sys.argv) > 1:
     port = int(sys.argv[1])
