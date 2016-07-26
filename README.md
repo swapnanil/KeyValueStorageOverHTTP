@@ -1,7 +1,7 @@
 Key-value pair storage over HTTP
 ================================
 
-This is a multithreaded, client-server architechture based key-value storate and retrival system written in Python. It can be used to add, update, delete and retrieve key-value pairs over a network through HTTP.
+This is a multithreaded, client-server architechture based key-value storage and retrieval system written in Python. It can be used to add, update, delete and retrieve key-value pairs over a network through HTTP.
 
 Usage examples:
 -----
